@@ -13,12 +13,6 @@ typedef struct pair {
 	int v, cost;
 } Pair;
 
-// Definirea structurii listei
-typedef struct list {
-	Pair data;
-	struct list *next;
-}*List;
-
 // Definirea structurii grafului
 typedef struct graph {
 	int V;
