@@ -1,5 +1,5 @@
 # PrimMST
-C programs which find the minimum spanning tree using Prim's algorithm and count elementary operations.  
+C programs which finds the minimum spanning tree using Prim's algorithm and counts elementary operations.  
 Var1 uses adjacency matrix and sorted array.  
 Var2 uses adjacency matrix and min-heap.  
 Var3 uses adjacency lists and sorted array.  
